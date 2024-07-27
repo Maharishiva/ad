@@ -1,2 +1,2 @@
 # ad
-Algorithm Distillation(AD) implementation,
+Algorithm Distillation(AD) implementation.
